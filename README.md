@@ -13,3 +13,4 @@ theme, including;
   * Disabling of google analytics when not in production
 
 For more information visit the [About This Site](http://huddo121.github.io/about-this-site/) page.
+
